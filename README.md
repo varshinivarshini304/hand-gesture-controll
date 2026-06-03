@@ -3,7 +3,7 @@
 A real-time hand gesture recognition system that enables users to control their computer using hand movements and gestures through a webcam. The project uses Computer Vision and Machine Learning techniques to replace traditional mouse and keyboard interactions.
 ## 📹 Live Demo
 
-[![Watch Demo](https://github.com/varshinivarshini304/hand-gesture-controll/blob/main/Hand%20Gesture.mp4?raw=true)](https://github.com/varshinivarshini304/hand-gesture-controll/blob/main/Hand%20Gesture.mp4)
+[![Watch Demo](https://github.com/varshinivarshini304/hand-gesture-controll/blob/main/Varshini%20Template.png?raw=true)](https://github.com/varshinivarshini304/hand-gesture-controll/blob/main/Hand%20Gesture.mp4)
 ## 🚀 Features
 
 * 🖱️ Cursor movement using hand tracking
